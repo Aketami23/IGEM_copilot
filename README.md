@@ -1,9 +1,6 @@
 # iGEM tokyo tech LLM
 
 I created a chat bot based on chatGPT that is familiar with iGEM parts and named it "iGEM copilot".To make it easier for beginners to enter iGEM, participants will be able to efficiently select PARTS using natural language search on a problem-based basis.
-This is a 99% modified version of the Scrapbox ChatGPT Connector.
-    Visit https://scrapbox.io/villagepump/Scrapbox_ChatGPT_Connector
-
 
 ## How to install
 
